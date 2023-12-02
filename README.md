@@ -1,4 +1,4 @@
-# Assignment1
+# JavaScript Exercises
 Casestudy #01||Javascript Exercises
 
 Please complete the following JS Programs and submit your code
